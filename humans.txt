@@ -1,0 +1,11 @@
+/* TEAM */
+	Frontend developer: Valeria Vazquez Salazar
+	Frontend developer: Mario Alejandro Mixtega Pacheco
+
+	Backend developer: Gabriel Cueto - TheMushrr00m
+	Backend developer: Ernesto Alonso Pestaña Jimenez
+
+/* SITE */
+	Last update:2015/01/27
+	Language: Spanish
+	Doctype:HTL5
