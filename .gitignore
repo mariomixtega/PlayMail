@@ -13,3 +13,9 @@ server.pid
 *.eml
 /dist/
 .cache
+PlayMail/project/.sbtserver
+PlayMail/project/.sbtserver.lock
+PlayMail/project/eclipse.sbt
+PlayMail/project/play-fork-run.sbt
+PlayMail/project/sbt-ui.sbt
+PlayMail/.sbtserver/
