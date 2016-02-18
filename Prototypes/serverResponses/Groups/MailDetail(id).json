@@ -1,0 +1,16 @@
+{
+  "Email":"mariomixtega@yahoo.com",
+  "Groups":[
+        {
+          "GroupName":"Empresarios",
+          "GroupId":2
+        }
+    ],
+    
+    "Lists":[
+        "Black"
+      ],
+      "MailSent":54,
+      "MailsRead":30,
+      "MailsIgnored":24
+}

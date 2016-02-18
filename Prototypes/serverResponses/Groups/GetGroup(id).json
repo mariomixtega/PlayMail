@@ -1,0 +1,52 @@
+{
+  "GroupName":"Empresarios",
+  "ListCount":14,
+  "BlackList": {
+    "Count": 7,
+    "List": [
+    "foreignexchangedept1@yahoo.com.hk",
+    "williamsgeorgeatmcarddept1@gmail.com",
+    "ericlim220@yahoo.com",
+    "mr.paul.harry08@gmail.com",
+    "katblix4@gmail.com",
+    "felica4uu@hotmail.com",
+    "j.nomvete30@workmail.co.za"
+    ]
+  },
+  "GrayList": {
+    "Count": 3,
+    "List": [
+    "paul_ku2@hotmail.com",
+    "davis_mark1@outlook.com",
+    "sgtamyrhodes@qq.com"
+    ]
+  },
+  "WhiteList": {
+    "Count": 4,
+    "List": [
+    "dhldelivery@pochta.com",
+    "arfinances@live.com",
+    "help202@outlook.dk",
+    "mrs.gloriamackenie@outlook.com"
+    ]
+  },
+  "List":[
+    "foreignexchangedept1@yahoo.com.hk",
+    "williamsgeorgeatmcarddept1@gmail.com",
+    "ericlim220@yahoo.com",
+    "mr.paul.harry08@gmail.com",
+    "katblix4@gmail.com",
+    "felica4uu@hotmail.com",
+    "j.nomvete30@workmail.co.za",
+    "paul_ku2@hotmail.com",
+    "davis_mark1@outlook.com",
+    "sgtamyrhodes@qq.com",
+    "dhldelivery@pochta.com",
+    "arfinances@live.com",
+    "help202@outlook.dk",
+    "mrs.gloriamackenie@outlook.com"
+    ]
+
+  
+
+}

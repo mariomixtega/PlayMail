@@ -1,0 +1,19 @@
+{
+  "CampName" : "Skate Gratis",
+  "EmailData":{
+    "Views":34,
+    "Sended":50
+  },
+  "TimeData":{
+      "3":155,
+      "10":344,
+      "24":981
+    },
+    "Details":{
+      "Sended":10000,
+      "Viewed" : 8453,
+      "Pending" :1547 ,
+      "BestTimeds": ["12:00 AM"],
+      "Percent":84.53
+    }
+}

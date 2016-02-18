@@ -1,0 +1,36 @@
+{
+  "Campaigns":[
+      {
+        "Name":"Fin de año 2010",
+        "Sended":34,
+        "Viewed":20
+      },
+      {
+        "Name":"Lo dijeron los mayas",
+        "Sended":500,
+        "Viewed":230
+      },
+      {
+        "Name":"Amor en febrero",
+        "Sended":120,
+        "Viewed":118
+      },
+      {
+        "Name":"Drogas al 50%",
+        "Sended":1000,
+        "Viewed":670
+      }
+    ],
+    "TimeData":{
+      "3":155,
+      "10":344,
+      "24":981
+    },
+    "Details":{
+      "Sended":10000,
+      "Viewed" : 8453,
+      "Pending" :1547 ,
+      "BestTimeds": [24],
+      "Percent":84.53
+    }
+}
