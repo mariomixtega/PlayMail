@@ -1,5 +1,5 @@
 html,body{
-	height: 95%;
+	height: 95% !important;
 }
 
 .full-heigth{
@@ -72,14 +72,6 @@ html,body{
 	background-color: #4E4D4D;
     border-color: #4E4D4D;
     margin: 0;
-}
-
-.main-menu-item-header{
-
-}
-
-.main-menu-item-body{
-
 }
 
 li.active > * {
